@@ -3,7 +3,7 @@ seen=set()
 dublicates = set()
 for x in lst:
   if x in seen:
-    duplicates.add(x)
+    dublicates.add(x)
   else:
     seen.add(x)
-print(list(duplicates))
+print(list(dublicates))
