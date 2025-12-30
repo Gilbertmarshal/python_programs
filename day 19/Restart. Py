@@ -1,0 +1,4 @@
+print("hello world") 
+types=["int", "str", " float", "bool", " list", "tuple"]
+for ch in types:
+print(ch) 
